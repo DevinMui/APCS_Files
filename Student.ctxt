@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=void\ setRow(int)
+comment1.params=s
+comment1.target=void\ setSeat(int)
+comment2.params=
+comment2.target=void\ getName()
+comment3.params=myNameFile
+comment3.target=void\ sayName(java.lang.String)
+comment3.text=\n\ Plays\ a\ sound\ file\ when\ called\n\ @param\ String\ myNameFile\ \ is\ the\ name\ of\ the\ sound\ file\ to\ play,\ ex\ "mySound.wav",\n
+comment4.params=
+comment4.target=void\ sitDown()
+numComments=5
