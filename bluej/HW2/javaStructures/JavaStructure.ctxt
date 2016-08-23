@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JavaStructure()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ JavaStructure\n
+comment1.params=balance\ acctNumber
+comment1.target=JavaStructure(double,\ int)
+comment2.params=money
+comment2.target=double\ deposit(double)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ money\ as\ a\ float\n\ @return\ \ \ \ \ the\ sum\ of\ the\ balance\ and\ money\n\ \n\ For\ instance,\ in\ your\ BankAccount\ class\ that\ you\ will\ make,\ you\ may\ want\ to\ write\n\ a\ method\ called\ "deposit".\ \ What\ would\ that\ look\ like?\n
+comment3.params=
+comment3.target=double\ getBalance()
+comment4.params=
+comment4.target=int\ getAcctNumber()
+comment5.params=money
+comment5.target=double\ setBalance(double)
+comment6.params=acctNumber
+comment6.target=int\ setAcctNumber(int)
+numComments=7
