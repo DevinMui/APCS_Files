@@ -1,3 +1,4 @@
+package org.example.pltw.medialib;
 
 /**
  * A movie to save to the library
@@ -39,10 +40,6 @@ public class Movie
 
     public int getDuration() {
         return duration;
-    }
-    
-    public String getUserFriendlyDuration(){
-        return Integer.toString(duration / 60) + ":" + Integer.toString(duration % 60);
     }
 
     public void setDuration(int d) {
