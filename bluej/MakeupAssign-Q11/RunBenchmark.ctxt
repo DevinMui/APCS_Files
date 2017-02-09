@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=testSize
+comment0.target=RunBenchmark(int)
+comment1.params=
+comment1.target=void\ printA()
+comment2.params=a
+comment2.target=int\ getLowest(int[])
+comment3.params=a
+comment3.target=int\ findSecondLowestSimple(int[])
+comment3.text=\n\ findSecondLowestSimple\ -\ loop\ through\ an\ integer\ array\ twice,\ once\ to\ find\ the\ lowest\ value,\ and\ second\ to\ find\ the\ second\ lowest\n\ \n\ @param\ a[]\ an\ integer\ array\ of\ random\ values\n\ @return\ the\ value\ of\ the\ second\ lowest\ element\ in\ the\ array\n
+comment4.params=a\ k
+comment4.target=int\ findSecondLowestHash(int[],\ int)
+comment4.text=\n\ findSecondLowestHash\ -\ store\ boolean\ values\ in\ a\ hash\ table\ that\ represents\ the\ array.\ Values\ are\ initally\ false,\ and\ then\ set\ to\ true\ at\ the\n\ index\ 1\ below\ the\ value\ of\ the\ element\ from\ the\ original\ array.\ \ For\ instance\ if\ a[5]\=3,\ then\ the\ boolean\ value\ at\ hash[2]\ would\ be\ set\ to\ true.\n\ \n\ @param\ a[]\ an\ integer\ array\ of\ random\ values\n\ @param\ k,\ the\ kth\ lowest\ position\ in\ the\ array\n\ @return\ the\ value\ of\ the\ kth\ lowest\ element\ in\ the\ array\n
+numComments=5
